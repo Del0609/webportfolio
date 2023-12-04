@@ -1,7 +1,7 @@
 index.js content:
 {
     "capstone": {
-        "liveLink": "<github page link>",
+        "liveLink": "https://github.com/Del0609/webportfolio",
 
         "name": "<your name>",
         
